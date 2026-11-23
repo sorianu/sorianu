@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou o Pedro Soriano 👋
 
-<!--
-**sorianu/sorianu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou estudante de tecnologia e estou aprendendo **Git**, **GitHub** e *desenvolvimento de software*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🔭 Atualmente estou estudando: **Controle de versão e programação**
+- 🌱 Aprendendo: *Markdown, HTML, CSS e JavaScript*
+- 💬 Pergunte-me sobre: Tecnologia, jogos e estudos
+- 📫 Como falar comigo: [Meu GitHub](https://github.com/sorianu) ou `pedrinhosoriano1@gmail.com`
+
+---
+
+## 🛠️ Tecnologias que estou estudando
+
+| Tecnologia | Nível | Status |
+| :--- | :---: | :---: |
+| Git & GitHub | Básico | 🟢 Estudando |
+| HTML & CSS | Básico | 🟡 Em breve |
+| JavaScript | Iniciante | 🟡 Em breve |
+
+---
+
+## 💻 Meu primeiro comando Git
+
+```bash
+git init
+git add README.md
+git commit -m "Criação do meu perfil no GitHub"
+git push -u origin main
